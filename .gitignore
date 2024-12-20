@@ -25,5 +25,9 @@ build
 
 /plugins/medusa-test-plugin/node_modules
 /plugins/medusa-test-plugin/dist
+/plugins/medusa-test-plugin/.yarn/*
+/medusa-test-plugin-packed/node_modules
+/medusa-test-plugin-packed/dist
+/medusa-test-plugin-packed/.yarn/*
 
 .medusa
